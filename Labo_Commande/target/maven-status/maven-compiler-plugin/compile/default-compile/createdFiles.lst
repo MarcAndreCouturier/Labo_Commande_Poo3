@@ -1,0 +1,6 @@
+com\mycompany\labo_commande\Labo_Commande.class
+com\mycompany\labo_commande\CommandeRenommerFichier.class
+com\mycompany\labo_commande\CommandeEffacer.class
+com\mycompany\labo_commande\ICommande.class
+com\mycompany\labo_commande\CommandeAjouterTextFin.class
+com\mycompany\labo_commande\CommandeCreerFichier.class
